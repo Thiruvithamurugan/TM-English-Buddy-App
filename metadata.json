@@ -1,0 +1,7 @@
+{
+  "name": "TM English Buddy",
+  "description": "A gamified, conversational English learning companion for children featuring an AI Tutor, smart grammar correction, and interactive games.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
